@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alfredo 👋
 
 <!--
 **alflhomme/alflhomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+- 🔭 I’m currently working on a tracking algorithm suitable for time-lapse microscopy images of swarming bacteria (e.g. _Paenibacillus vortex_).
+- 🌱 I’m currently learning how to adapt dynamically to a rugged fitness landscape.
+- 👯 I’m looking to collaborate on ways to make the planet a better place for everyone.
