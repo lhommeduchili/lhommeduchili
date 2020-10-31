@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ---
 - 🔭 I’m currently working on a tracking algorithm suitable for time-lapse microscopy images of swarming bacteria (e.g. _Paenibacillus vortex_).
-- 🌱 I’m currently learning how to adapt dynamically to a rugged fitness landscape.
+- 🌱 I’m currently learning how to adapt in a rugged  dynamic landscape of opportunities.
 - 👯 I’m looking to collaborate on ways to make the planet a better place for everyone.
