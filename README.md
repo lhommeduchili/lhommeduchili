@@ -1,7 +1,7 @@
-### Hi there, I'm Alφ 👋
+### hi there, i'm alφ 👋
 
 <!--
-**alflhomme/alflhomme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lhommeduchili/lhommeduchili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-- 🔭 
-- 🌱 I’m currently learning how to adapt in a rugged  dynamic landscape of opportunities.
-- 👯 I’m looking to collaborate on ways to make the planet a better place for everyone.
+i’m looking to collaborate on ways to make the planet a better place for everyone.
